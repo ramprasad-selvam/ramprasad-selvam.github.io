@@ -1,0 +1,17 @@
+{
+  "About": {
+    "type": 1
+  },
+  "Experience": {
+    "type": 2
+  },
+  "Education": {
+    "type": 2
+  },
+  "Skills": {
+    "type": 3
+  },
+  "Interests": {
+    "type": 4
+  }
+}
