@@ -1,17 +1,55 @@
 {
-  "About": {
-    "type": 1
-  },
-  "Experience": {
-    "type": 2
-  },
-  "Education": {
-    "type": 2
-  },
-  "Skills": {
-    "type": 3
-  },
-  "Interests": {
-    "type": 4
+  "profile": {},
+  "data": {
+    "About": {
+      "type": 1,
+      "o1": {
+        "t1": "ram",
+        "t2": "ram",
+        "a1": [
+          "3542 Berry Street",
+          "Cheyenne Wells, CO 80810",
+          {
+            "tag": "a",
+            "href": "mailto:name@email.com",
+            "content": "name@email.com"
+          },
+          { "tag": "a", "href": "tel:+918940756775", "content": "8940756775" }
+        ],
+        "t3": "I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+        "a2": [{ "img": "asdasd", "href": "mailto:name@email.com" }]
+      }
+    },
+    "Experience": {
+      "type": 2,
+      "a1": [
+        {
+          "t1": "WEB DEVELOPER",
+          "t2": "December 2011 - March 2013",
+          "t3": "INTELITEC SOLUTIONS",
+          "a1": [
+            "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line."
+          ]
+        }
+      ]
+    },
+    "Education": {
+      "type": 2,
+      "a1": [
+        {
+          "t1": "UNIVERSITY OF COLORADO BOULDER",
+          "t2": "August 2006 - May 2010",
+          "t3": "BACHELOR OF SCIENCE",
+          "a1": ["Computer Science - Web Development Track", "GPA: 3.23"]
+        }
+      ]
+    },
+    "Skills": {
+      "type": 3,
+      "a1": [
+        "Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.",
+        "When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world."
+      ]
+    }
   }
 }
